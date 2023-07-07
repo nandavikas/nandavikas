@@ -31,7 +31,7 @@
 ### My Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandavikas&langs_count_private=true&show_icons=true&theme=radical&layout=compact)<br><br>
 
-<h4>📫 Reach out to me</h4>
+### 📫 Reach out to me
   - [LinkedIn](https://www.linkedin.com/in/nandavikas/)
   - [Portfolio](https://nandavikas.com/)
 
