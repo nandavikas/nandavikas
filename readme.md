@@ -6,8 +6,9 @@
 <p>I'm a passionate Full-Stack developer with an experience of 3.5 years in MERN stack</p>
 ```
 
+- 😄 Pronouns: He/Him
 - 🔭 I’m actively working on an Idea of mine. [Have a look](https://easyonlinetools.org/)
-- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about anything related to JavaScript/TypeScript
 - 👯 I’m looking to contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and playing outdoor games
 
