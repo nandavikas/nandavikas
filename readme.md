@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to travel and playing outdoor games
 
 <h4>🛠 Tech Stack</h4>
-  - <h5>Know/Using</h5>
+  - #### Know/Using
     - HTML
     - CSS
     - JavaScript
@@ -23,7 +23,7 @@
     - Python
     - FastAPI
 
-  - <h5>Learning</h5>
+  - #### Learning
     - React Native
     - SEO
 
