@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I love to travel and playing outdoor games
 
 <h4>🛠 Tech Stack</h4>
+
   - #### Know/Using
     - HTML
     - CSS
