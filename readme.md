@@ -24,6 +24,8 @@
     - Express.js
     - Python
     - FastAPI
+    - Next.js
+    - Nest.js
 
   - #### Learning
     - React Native
