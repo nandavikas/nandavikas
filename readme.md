@@ -20,6 +20,7 @@
     - JavaScript
     - TypeScript
     - React.js
+    - React Native(Expo)
     - Node.js
     - Express.js
     - Python
@@ -28,7 +29,6 @@
     - Nest.js
 
   - #### Learning
-    - React Native
     - SEO
 
 ### My Languages
