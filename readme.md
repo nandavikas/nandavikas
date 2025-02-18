@@ -27,6 +27,7 @@
     - FastAPI
     - Next.js
     - Nest.js
+    - PhP
 
   - #### Learning
     - SEO
