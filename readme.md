@@ -3,7 +3,7 @@
 ### About me
 
 ```javascript
-<p>I'm a passionate Software Developer with an experience of 4.5 years in Full-stack web development</p>
+<p>I'm a passionate Software Developer with an experience of 6 years in Full-stack web development</p>
 ```
 
 - 😄 Pronouns: He/Him
@@ -28,6 +28,7 @@
     - Next.js
     - Nest.js
     - PhP
+    - ASP.NET
 
   - #### Learning
     - SEO
