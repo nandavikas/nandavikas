@@ -7,9 +7,8 @@
 ```
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m actively working on an Idea of mine. [Have a look](https://easyonlinetools.org/)
+- 🔭 I’m actively working on an Idea of mine. [Have a look](https://www.ai-jobagent.com/)
 - 💬 Ask me about anything related to JavaScript/TypeScript
-- 👯 I’m looking to contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and playing outdoor games
 
 ### 🛠 Tech Stack
@@ -21,6 +20,7 @@
     - TypeScript
     - React.js
     - React Native(Expo)
+    - Solito
     - Node.js
     - Express.js
     - Python
@@ -32,6 +32,7 @@
 
   - #### Learning
     - SEO
+    - GEO
 
 ### My Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandavikas&langs_count_private=true&show_icons=true&theme=radical&layout=compact)<br><br>
