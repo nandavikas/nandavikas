@@ -3,7 +3,7 @@
 ### About me
 
 ```javascript
-<p>I'm a passionate Software Developer with an experience of 6 years in Full-stack web development</p>
+<p>I'm a passionate Software Developer with over 6 years of experience</p>
 ```
 
 - 😄 Pronouns: He/Him
